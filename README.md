@@ -1,2 +1,2 @@
-# -rnek
+# ornek
 açıklama
