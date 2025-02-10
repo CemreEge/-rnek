@@ -1,0 +1,146 @@
+body{
+    background-color: #edf6f9;
+}
+
+.navbar{
+    position: absolute;
+    background-color: #c8eed9;
+    color: #2f3e46;
+    width: 100%;
+}
+
+.cerceve{
+    display: flow-root;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+    margin-left: auto;
+}
+
+.cerceve ul{
+    margin: 5px;
+    display: block;
+}
+
+.cerceve ul li{
+    display: inline-block;
+    background-color: #deffed;
+}
+
+.cerceve ul li a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #deffed;
+    padding: 15px 20px;
+
+}
+
+.cerceve ul li a:hover{
+    background-color: #c6ffce;
+    color: #226f54;
+}
+
+a{
+    color: #2f3e46;
+}
+
+.profil1{
+    height: 70px;
+    width: 70px;
+    margin-top: 100px;
+    border: #588157 solid 3px;
+    position: absolute;
+    left: 10%;
+    border-bottom-left-radius: 200px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.profil2{
+    height: 70px;
+    width: 70px;
+    border-bottom-left-radius: 200px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.profil3{
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    border: #588157 solid 3px;
+    position: absolute;
+    left: 20%;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.profil4{
+    height: 500px;
+    width: 500px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.isim1{
+    position: absolute;
+    left: 10%;
+    margin-top: 180px;
+    color: black;
+}
+
+.profil5{
+    height: 70px;
+    width: 70px;
+    margin-top: 50%;
+    border: #588157 solid 3px;
+    position: absolute;
+    left: 10%;
+    border-bottom-left-radius: 200px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.profil6{
+    height: 70px;
+    width: 70px;
+    border-bottom-left-radius: 200px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.profil7{
+    height: 500px;
+    width: 500px;
+    margin-top: 50%;
+    border: #588157 solid 4px;
+    position: absolute;
+    left: 20%;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.profil8{
+    height: 500px;
+    width: 500px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.isim2{
+    position: absolute;
+    left: 158px;
+    margin-top: 55%;
+    color: black;
+}
