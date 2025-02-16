@@ -1,2 +1,0 @@
-# ornek
-açıklama
